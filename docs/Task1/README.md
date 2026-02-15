@@ -20,4 +20,4 @@ APIs (Application Programming Interfaces) are crucial for several reasons:
 
 ## What I Learned
 
-I learned how to simulate a GPIO library by calling the API in the `main.c` file.
+I learned how to simulate a GPIO library by calling the API in the `main.c` file. I also learned how to define API funtions in the `gpio.c` file and how to declare the prototypes in the `gpio.h` file.
