@@ -2,7 +2,7 @@
 
 This repository is the forked repository for the **VSDSquadron Mini Embedded Firmware Internship** by Dhruva Aklekar.
 
-The goal of this repository is to introduce participants to:
+The goal of this repository is to introduce:
 - Embedded firmware structure
 - Library and API design
 - How application code uses firmware libraries
