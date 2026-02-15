@@ -2,7 +2,7 @@
 
 The first task involved simulation of a GPIO library by calling the API in the `main.c` file.
 
-By compiling the code using the GCC compiler, the output was displayed in the terminal as shown in the ![Task 1 Output](Task%201.png) file.
+By compiling the code using the GCC compiler, the output was displayed in the terminal as shown in the ![Task 1 Output](Task_1.png) file.
 
 ## What is a Firmware Library?
 
